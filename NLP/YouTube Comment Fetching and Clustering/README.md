@@ -35,6 +35,6 @@ The notebook provides a step-by-step guide to accessing YouTube comments through
    - Store results in pandas DataFrame.  
    - Clean and preprocess text (remove special characters, etc.).  
 
----
-
-## 📂 Repository Structure
+4. **Machine Learning Model Building**
+    -Build K-means clustering
+   
